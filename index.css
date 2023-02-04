@@ -1,0 +1,209 @@
+*{
+    margin: 40;
+    padding: 0;
+}
+.body1 {
+    background-color: #000000;
+}
+
+.container{
+    font-family: 'Montserrat';
+    justify-content: center;
+    display: flex;
+    width: 1200px;
+    justify-content: space-around;
+    position: absolute;
+    width: 1200px;
+    height: 1600px;
+    left: 40px;
+    top: 40px;
+    background: white ;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+.text-project {
+    color: #595959
+}
+
+.project-list-text {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.main_content{
+    margin-top:40px;
+    width: 525px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.left_sidebar{
+    background-color: #1E2939;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img{
+    margin-top: 40px;
+}
+
+.left_sidebar li{
+    font-size: 14px;
+    margin-left: 20px;
+}
+.color-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+
+
+.contacts_block{
+    margin-left: 40px;
+    margin-bottom: 45px;
+}
+.contact-text {
+    margin: 0px;
+    padding: 0px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.main_content li{
+    margin-left: 19px;
+}
+
+.about_user{
+    width:400px;
+}
+.about_user h2{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.about_user h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.about_user p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+h3{
+    font-size: 22px;
+    line-height: 20px;
+    font-weight: bolder;
+}
+
+.projects{
+    width: 485px;
+}
+
+a{
+    text-decoration: none;
+    color:#595959;
+}
+
+.experiance h4{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.experiance p{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8 ;
+}
+
+.experiance li{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959 ;
+}
+
+p1{
+    color: orangered;
+}
+
+.education h4{
+    color: orangered;
+}
+
+.education p{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.tech-list-ul {
+    margin-left: 45px;
+    
+}
+.Tech-Skills-h {
+    margin-left: 45px;  
+}
+
+.tech-slills-item {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FB6D3A;
+}
+
+.tech-skills-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.skills {
+    margin-bottom: 45px;
+}
+
+.logo {
+    width: 100px;
+    margin-top: 25px;
+}
+
+.user-photo {
+    width: 420px;
+}
+
+.photo2 {
+    width: 100px;
+}
+
+.line {
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+}
+
